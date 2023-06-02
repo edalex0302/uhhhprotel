@@ -1,0 +1,58 @@
+body{
+    background: #BF40BF;
+    color: #f5f5f5;
+    margin: unset;
+}
+
+label.logo{
+  color: white;
+  font-size:35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+  
+nav ul{
+  margin: unset;
+  background-color:  #0082e6;;
+  width: 100%;
+}
+  
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 30px;
+}
+  
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+
+}
+
+li a{
+
+  right: 100px;
+}
+
+audio{
+    background: #f5f5f5;
+    width: 70%;
+    border-radius: 20px;
+    outline: none;
+}
+
+.container{
+  margin: 0 20px;
+}
+
+p{
+  font-size: 28px;
+  margin: 14px 0;
+}
+
+
+
