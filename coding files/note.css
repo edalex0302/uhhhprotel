@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-  background:#618cf8;
+  background-image: linear-gradient(to left, red, purple,blue);
 }
 ::selection{
   color: #ffffff;
@@ -40,13 +40,13 @@ nav ul{
   margin-right: 0px;
 }
   
-nav ul li{
+nav ul lin{
   display: inline-block;
   line-height: 80px;
   margin: 0 30px;
 }
   
-nav ul li a{
+nav ul lin a{
   color: white;
   font-size: 17px;
   text-transform: uppercase;
